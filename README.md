@@ -1,5 +1,7 @@
 # DEPRECIATION NOTICE
+ 
 This module has been deprecated and is no longer maintained. Should you need to continue to use it, please fork the repository. Thank you.
+ 
  # terraform-aws-opensearch
 
 Creates and OpenSearch cluster and a corresponding user pool and identity pool in Cognito for access.
